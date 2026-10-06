@@ -48,6 +48,14 @@ h3 { margin-bottom: 10px; font-size: 1.2rem; letter-spacing: -.03em; }
 .card-caption { color: #b7d7c6; font-size: .82rem; }
 .chart { height: 130px; display: flex; align-items: end; gap: 9px; margin: 28px 0 22px; border-bottom: 1px solid rgba(255,255,255,.2); }
 .chart span { flex: 1; border-radius: 8px 8px 0 0; background: var(--accent-bright); opacity: .8; }
+.chart .bar-42 { height: 42%; }
+.chart .bar-64 { height: 64%; }
+.chart .bar-51 { height: 51%; }
+.chart .bar-78 { height: 78%; }
+.chart .bar-58 { height: 58%; }
+.chart .bar-88 { height: 88%; }
+.chart .bar-70 { height: 70%; }
+.not-found { padding: 18vh 0; text-align: center; }
 .card-footer strong { color: var(--accent-bright); font-weight: 650; }
 .section-block { padding: 110px 0; }
 .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 30px; margin-bottom: 52px; }
