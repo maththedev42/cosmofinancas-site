@@ -100,7 +100,7 @@ h3 { margin-bottom: 10px; font-size: 1.2rem; letter-spacing: -.03em; }
 }
 @media (prefers-color-scheme: dark) {
   :root { --bg: #101713; --surface: #17211c; --surface-muted: #202c25; --text: #edf5ed; --muted: #a6b5aa; --line: #334139; --accent-soft: #253d2e; }
-  .brand-accent, .plans-table .pro-heading, .plans-table tfoot td:last-child, .feature-card:not(.feature-card-highlight) .feature-icon, .step-index { color: var(--accent-bright); }
+  .brand-accent, .eyebrow, .plans-table .pro-heading, .plans-table tfoot td:last-child, .feature-card:not(.feature-card-highlight) .feature-icon, .step-index { color: var(--accent-bright); }
   .site-footer { background: #17211c; }
 }
 @media (max-width: 760px) {
